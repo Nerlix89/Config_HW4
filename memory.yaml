@@ -1,0 +1,17 @@
+memory:
+- address: 0
+  value: 3
+- address: 1
+  value: 85
+- address: 2
+  value: 15
+- address: 3
+  value: 240
+- address: 4
+  value: 204
+- address: 5
+  value: 170
+- address: 6
+  value: 129
+- address: 7
+  value: 126
