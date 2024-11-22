@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/9cfd6e58-0d14-439a-b412-ad036a83f2d0)
 
-Файл в который записывается информация после работы ассемблера:
+Файл (program_log.yaml) в который записывается информация после работы ассемблера:
 
 ![image](https://github.com/user-attachments/assets/207e463e-3bee-41e7-a900-dffd66d5467a)
 
